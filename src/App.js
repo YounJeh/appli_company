@@ -5,6 +5,7 @@ import About from './components/About';
 import Services from './components/Services';
 import Contact from './components/Contact';
 import styled from 'styled-components';
+import Logo from './components/Logo';
 
 const AppContainer = styled.div`
     font-family: Arial, sans-serif;
@@ -16,6 +17,7 @@ const AppContainer = styled.div`
 const App = () => (
     <AppContainer>
         <Header />
+        <Logo />
         <About />
         <Services />
         <Contact />

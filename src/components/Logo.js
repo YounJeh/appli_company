@@ -21,7 +21,7 @@ const Logo = styled.img`
 
 const LogoComponent = () => (
   <LogoContainer>
-    <Logo src="/images/logo.png" alt="Logo Skelia" />
+    <Logo src="/images/logo_entreprise.png" alt="Logo Skelia" />
   </LogoContainer>
 );
 

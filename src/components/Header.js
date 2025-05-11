@@ -68,7 +68,7 @@ const SocialLink = styled.a`
 const Header = () => (
   <HeaderContainer>
     <Logo>
-      <img src="/images/logo.png" alt="Skedia Logo" />
+      <img src="/images/logo_entreprise.png" alt="Skedia Logo" />
       <h1>SKEDIA</h1>
     </Logo>
     <Nav>
